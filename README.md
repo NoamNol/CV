@@ -1,2 +1,2 @@
 # CV
-CV redirect
+Redirect to my CV.
