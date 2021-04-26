@@ -1,2 +1,3 @@
 # CV
-Redirect to my CV.
+Redirect to my CV.  
+https://noamnol.github.io/CV
